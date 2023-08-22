@@ -1,6 +1,6 @@
 import socket
 
-HOST = '192.168.1.7'
+HOST = socket.gethostbyname(socket.gethostname())
 PORT = 12345
 
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -12,7 +12,6 @@ while True:
         global data
         client_socket, client_address = server_socket.accept()
         print(f"Connection from {client_address}")
-        
         while True:
                 data = client_socket.recv(1024)
                 print(data.decode())
