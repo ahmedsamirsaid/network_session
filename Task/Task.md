@@ -17,9 +17,6 @@
 
 
 # Task 2 Web server 
-You will gain hands-on experience with socket programming in Python by implementing a basic web client and a multi-threaded web server. The goal is to understand the foundational concepts of HTTP and socket communication.
-
-## Task Details
 
 ### Part 1: Multi-threaded Web Server
 
