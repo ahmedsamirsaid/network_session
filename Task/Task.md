@@ -1,4 +1,4 @@
-# Task 1: Implementing a Reliable UDP Communication with Connection Loss Simulation
+# Task 1: Implementing a Reliable UDP Communication
 
 - **Objective:** Develop both a server and a client to ensure reliable data transfer over UDP, including handling simulated connection losses.
 - **Steps:**
