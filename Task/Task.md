@@ -11,9 +11,8 @@
 - **Goal:** Ensure that each packet is reliably received and acknowledged in the correct sequence, even in the presence of simulated connection losses.
   
 - **Notes**
-
-- Use Python for development.
-- This task should be completed individually.
+  - Use Python for development.
+  - This task should be completed individually.
 
 
 
