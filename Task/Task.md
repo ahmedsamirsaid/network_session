@@ -9,6 +9,11 @@
   5. **Connection Loss Simulation:** Introduce a mechanism to simulate packet loss or connection drops. The client should be able to detect when a packet is lost and re-request the same packet until it is successfully received. **Hint :** choose rondomly yo send the packet or not.
 
 - **Goal:** Ensure that each packet is reliably received and acknowledged in the correct sequence, even in the presence of simulated connection losses.
+  
+- **Notes**
+
+- Use Python for development.
+- This task should be completed individually.
 
 
 
