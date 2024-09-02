@@ -48,4 +48,4 @@
 ## Notes
 
 - Use Python for development.
-- This task should be completed in teams of two members.
+- This task should be completed in teams.
